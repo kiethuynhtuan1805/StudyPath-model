@@ -1,0 +1,11 @@
+Go to %SPARK_HOME%\bin folder in a command prompt
+
+Run "spark-class org.apache.spark.deploy.master.Master" to run the master. This will give you a URL of the form spark://ip:port
+
+spark://26.177.92.120:7077
+
+Run "spark-class org.apache.spark.deploy.worker.Worker spark://ip:port" to run the worker. Make sure you use the URL you obtained in step 2.
+Example: "spark-class org.apache.spark.deploy.worker.Worker spark://26.177.92.120:7077"
+
+Run "spark-shell --master spark://ip:port" to connect an application to the newly created cluster.
+

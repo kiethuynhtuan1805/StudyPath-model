@@ -1,0 +1,26 @@
+# Algorithm: Deep Edu NCF
+
+## Input
+- User-Item Matrix R
+- Deep Neural Network topology architecture A
+- Learning rate l
+- Decay ratio r
+- Number of iterations i
+- UserFactors and ItemFactors from ALS training
+
+## Output
+- Weight matrices and bias terms P1, R1, W1, W2, ..., Wn, b1, b2, ..., bn
+
+1. Generate training entries R_train and test entries R_test
+2. Initialize P1, R1, W1, ..., Wn, b1, b2, ..., bn to 0
+3. For epoch = 1, 2, ..., i do
+    - For each user and item in R_train do
+        - Generate user embedding vector u using userFactors and Equation (1)
+        - Generate item embedding vector b using itemFactors and Equation (2)
+        - Generate input vector via Equation (3)-(5)
+        - Generate prediction via Equation (9)
+    - Pass l and r to Adam
+    - Update model parameters by Adam minimizing Equation (10)
+    - For each user and item in R_test do
+        - Model evaluation performance via Equation (11)-(12)
+4. End for

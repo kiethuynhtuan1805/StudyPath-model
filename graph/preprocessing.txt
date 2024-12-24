@@ -1,0 +1,9 @@
+﻿Đối với các điểm CT, VT, KD: thì xem như bị 0 điểm.
+Đối với các điểm bằng chữ khác: MT, HT, ...  thì xem như không ghi vào bảng điểm nên những điểm này sẽ bị loại bỏ
+Các điểm >10 bị quy về 0.
+Đối với một đứa học nhiều môn => lấy lần học có điểm số cao nhất.
+
+* Sau khi load hết tất cả các files để chạy dự đoán thì:
+	+ Matrix factorization: rmse = 2.136054
+	+ Item-based collarborative filtering: rmse = 1.77673068711
+=> Data càng nhiều thì độ chính xác của phương án thứ 2 càng tốt hơn 1 ???

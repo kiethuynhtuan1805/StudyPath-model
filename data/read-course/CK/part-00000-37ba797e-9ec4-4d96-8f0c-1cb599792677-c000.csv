@@ -1,0 +1,90 @@
+F_MAMH,NAMHOC,F_MAKH,F_MANG,F_TENMHVN,F_DVHT,TEN_KHKTVN,KHOI,COMPULSARY,avg_TKET,std_TKET,range_TKET,PASS_RATE,LEVEL
+CH1003,2020,CK,CK,Hóa đại cương,3,Toán và KH Tự nhiên,DC,1,6.183799342105263,1.670901003103537,10.0,94.16118421052632,1
+CI2001,2020,CK,CKT,Sức bền vật liệu,3,Cơ sở ngành,CSN,3,6.1013306038894575,2.459813957007538,10.0,84.03275332650972,2
+CI2001,2020,CK,CDT,Sức bền vật liệu,3,Cơ sở ngành,CSN,4,6.1013306038894575,2.459813957007538,10.0,84.03275332650972,2
+CI2003,2020,CK,CKT,Cơ lưu chất,3,Cơ sở ngành,CSN,6,6.162132752992383,2.558007253879033,10.0,82.2633297062024,2
+CO1003,2020,CK,CKT,Nhập môn về lập trình,3,Cơ sở ngành,CSN,7,6.845971563981043,1.9390361315466194,10.0,91.9431279620853,1
+CO1003,2020,CK,CDT,Nhập môn về lập trình,3,Cơ sở ngành,CSN,3,6.845971563981043,1.9390361315466194,10.0,91.9431279620853,1
+ME1001,2020,CK,CK,Nhập môn về kỹ thuật,3,Nhập môn,NM,1,8.334771354616048,1.455472881155733,10.0,97.67040552200173,1
+ME1003,2020,CK,CDM,Cơ khí đại cương,3,Cơ sở ngành,CSN,2,7.2565543071161045,1.2709537445996335,9.0,98.12734082397003,1
+ME1013,2020,CK,CKT,Thực tập cơ khí đại cương 1,2,Cơ sở ngành,CSN,3,0.0,0.0,,0.0,0
+ME1013,2020,CK,CDT,Thực tập cơ khí đại cương 1,2,Cơ sở ngành,CSN,2,0.0,0.0,,0.0,0
+ME1015,2020,CK,CKT,Nguyên lý máy,4,Cơ sở ngành,CSN,2,0.0,0.0,,0.0,0
+ME1015,2020,CK,CDT,Nguyên lý máy,4,Cơ sở ngành,CSN,3,0.0,0.0,,0.0,0
+ME2005,2020,CK,CKT,Trang bị điện - điện tử trong máy công nghiệp,4,Cơ sở ngành,CSN,5,6.449701195219124,1.5525715683773695,8.5,95.1195219123506,1
+ME2005,2020,CK,CDT,Trang bị điện - điện tử trong máy công nghiệp,4,Cơ sở ngành,CSN,5,6.449701195219124,1.5525715683773695,8.5,95.1195219123506,1
+ME2007,2020,CK,CKT,Chi tiết máy,3,Cơ sở ngành,CSN,4,6.416857798165138,2.143053335985963,10.0,87.38532110091744,2
+ME2007,2020,CK,CDT,Chi tiết máy,3,Cơ sở ngành,CSN,5,6.416857798165138,2.143053335985963,10.0,87.38532110091744,2
+ME2009,2020,CK,CKT,Kỹ thuật điều khiển tự động,3,Cơ sở ngành,CSN,7,7.426181102362205,1.8472121920138522,10.0,95.2755905511811,1
+ME2009,2020,CK,CDT,Kỹ thuật điều khiển tự động,3,Cơ sở ngành,CSN,5,7.426181102362205,1.8472121920138522,10.0,95.2755905511811,1
+ME2013,2020,CK,CKT,Nhiệt động lực học và truyền nhiệt,3,Cơ sở ngành,CSN,6,6.676315789473684,2.254864011486074,10.0,90.70175438596492,2
+ME2015,2020,CK,CKT,Vật liệu học và xử lý,3,Chuyên ngành,CN,4,6.612828438948996,1.5433686789584575,9.5,95.6723338485317,1
+ME2019,2020,CK,CK,Môi trường và con người,3,Con người và môi trường,DC,8,7.535893155258765,1.380997589816927,9.5,97.8297161936561,1
+ME2033,2020,CK,CDM,Thực tập kỹ thuật,3,Chuyên ngành,CN,5,7.409090909090909,1.8102641456583837,9.0,95.45454545454545,1
+ME2065,2020,CK,CDM,Công nghệ may 1,3,Cơ sở ngành,CSN,3,7.386792452830188,1.7421293045546584,10.0,96.22641509433963,1
+ME2071,2020,CK,CKT,Các quá trình chế tạo,3,Chuyên ngành,CN,6,6.551020408163265,0.7624193060323112,7.5,99.31972789115646,1
+ME2087,2020,CK,CKT,Thực tập cơ khí đại cương 2,2,Cơ sở ngành,CSN,4,0.0,0.0,,0.0,0
+ME2087,2020,CK,CDT,Thực tập cơ khí đại cương 2,2,Cơ sở ngành,CSN,3,0.0,0.0,,0.0,0
+ME2089,2020,CK,CKT,Vẽ kỹ thuật cơ khí,4,Cơ sở ngành,CSN,3,0.0,0.0,,0.0,0
+ME2089,2020,CK,CDT,Vẽ kỹ thuật cơ khí,4,Cơ sở ngành,CSN,4,0.0,0.0,,0.0,0
+ME2091,2020,CK,CKT,Phương pháp số,3,Toán và KH Tự nhiên,DC,3,0.0,0.0,,0.0,0
+ME2091,2020,CK,CDT,Phương pháp số,3,Toán và KH Tự nhiên,DC,3,0.0,0.0,,0.0,0
+ME2101,2020,CK,CDM,Cơ học máy,3,Cơ sở ngành,CSN,4,0.0,0.0,,0.0,0
+ME2103,2020,CK,CDM,Khoa học vật liệu dệt,3,Cơ sở ngành,CSN,3,0.0,0.0,,0.0,0
+ME2105,2020,CK,CDM,Công nghệ may 2,3,Chuyên ngành,CN,4,0.0,0.0,,0.0,0
+ME2107,2020,CK,CDM,Thí nghiệm kiểm tra phân tích vật liệu dệt,2,Cơ sở ngành,CSN,3,0.0,0.0,,0.0,0
+ME2109,2020,CK,CDM,Mỹ thuật trang phục,3,Chuyên ngành,CN,4,0.0,0.0,,0.0,0
+ME2115,2020,CK,CDT,Thực tập kỹ thuật,2,Cơ sở ngành,CSN,4,0.0,0.0,,0.0,0
+ME2117,2020,CK,CKT,Thí nghiệm cơ học máy,1,Cơ sở ngành,CSN,4,0.0,0.0,,0.0,0
+ME3001,2020,CK,CKT,Kỹ thuật thủy lực và khí nén,3,Chuyên ngành,CN,7,6.178082191780822,1.8285240506362963,9.0,89.95433789954338,1
+ME3001,2020,CK,CDT,Kỹ thuật thủy lực và khí nén,3,Tự chọn chuyên ngành,TC_CN,0,6.178082191780822,1.8285240506362963,9.0,89.95433789954338,1
+ME3003,2020,CK,CKT,Dung sai và kỹ thuật đo,3,Chuyên ngành,CN,5,6.226415094339623,1.7300844629244627,8.0,92.18328840970351,1
+ME3005,2020,CK,CDT,Thiết kế hệ thống cơ điện tử,3,Tự chọn chuyên ngành,TC_CN,0,8.101626016260163,1.067322660805263,5.0,100.0,1
+ME3007,2020,CK,CDT,Vi điều khiển,3,Chuyên ngành,CN,6,7.934959349593496,1.2179654992447009,6.5,98.3739837398374,1
+ME3009,2020,CK,CDT,Các quá trình chế tạo,3,Tự chọn chuyên ngành,TC_CN,0,6.8858267716535435,1.8852338385462457,9.0,94.88188976377953,1
+ME3011,2020,CK,CDT,Động lực học và điều khiển,3,Chuyên ngành,CN,6,6.748175182481752,2.095271363507005,9.0,90.51094890510949,2
+ME3013,2020,CK,CDT,Hệ thống PLC,3,Tự chọn chuyên ngành,TC_CN,0,7.258064516129032,2.238187497417537,9.5,89.40092165898618,2
+ME3015,2020,CK,CDT,Kỹ thuật robot,3,Chuyên ngành,CN,6,6.944055944055944,2.002731317287116,9.5,90.9090909090909,2
+ME3095,2020,CK,CDM,Kỹ thuật trang trí trang phục,3,Chuyên ngành,CN,6,8.576923076923077,0.7865047638697071,3.0,100.0,1
+ME3105,2020,CK,CDM,Thiết kế đồ họa,3,Chuyên ngành,CN,6,7.892857142857143,2.305333043089532,9.0,92.85714285714286,2
+ME3115,2020,CK,CDM,Thiết kế trang phục 2,3,Chuyên ngành,CN,6,7.071428571428571,0.7464200272921789,2.0,100.0,1
+ME3123,2020,CK,CDT,Thực tập ngoài trường,2,Tốt nghiệp,DA_TN,6,0.0,0.0,,0.0,0
+ME3133,2020,CK,CDM,Thực tập ngoài trường,2,Tốt nghiệp,TN,6,0.0,0.0,,0.0,0
+ME3135,2020,CK,CKT,Thực tập ngoài trường,2,Tốt nghiệp,TN,6,0.0,0.0,,0.0,0
+ME3137,2020,CK,CDM,Thiết kế trang phục 1,3,Chuyên ngành,CN,5,0.0,0.0,,0.0,0
+ME3139,2020,CK,CKT,Đồ án thiết kế,2,Cơ sở ngành,CSN,5,0.0,0.0,,0.0,0
+ME3141,2020,CK,CKT,Thực hành tự động hóa thiết kế (CAD),1,Cơ sở ngành,CSN,5,0.0,0.0,,0.0,0
+ME3143,2020,CK,CKT,Thực tập kỹ thuật cơ khí,2,Chuyên ngành,CN,6,0.0,0.0,,0.0,0
+ME3145,2020,CK,CDT,Đồ án hệ thống truyền động,2,Chuyên ngành,CN,5,0.0,0.0,,0.0,0
+ME3173,2020,CK,CDM,Tiếp thị,3,Cơ sở ngành,CSN,5,0.0,0.0,,0.0,0
+ME3175,2020,CK,CDM,Thiết bị may,3,Chuyên ngành,CN,5,0.0,0.0,,0.0,0
+ME3177,2020,CK,CDM,Thực tập thiết kế đồ họa,1,Chuyên ngành,CN,6,0.0,0.0,,0.0,0
+ME4061,2020,CK,CKT,Đồ án chuyên ngành,2,Tốt nghiệp,TN,7,0.0,0.0,,0.0,0
+ME4063,2020,CK,CKT,Công nghệ 4.0 trong lãnh vực cơ khí,3,Chuyên ngành,CN,8,0.0,0.0,,0.0,0
+ME4071,2020,CK,CDT,Đồ án chuyên ngành,2,Tốt nghiệp,DA_TN,7,0.0,0.0,,0.0,0
+ME4105,2020,CK,CDM,CAD-CAM trong dệt may,3,Cơ sở ngành,CSN,7,0.0,0.0,,0.0,0
+ME4111,2020,CK,CDM,Kiểm định và đánh giá chất lượng hàng dệt may,3,Cơ sở ngành,CSN,7,0.0,0.0,,0.0,0
+ME4121,2020,CK,CDM,Đồ án ngành 1,2,Tốt nghiệp,TN,7,0.0,0.0,,0.0,0
+ME4123,2020,CK,CDM,Thiết kế chuyền,3,Chuyên ngành,CN,7,0.0,0.0,,0.0,0
+ME4125,2020,CK,CDM,Công nghệ dệt nhuộm,3,Cơ sở ngành,CSN,8,0.0,0.0,,0.0,0
+ME4133,2020,CK,CDT,Hệ thống PLC trong robot và tự động hóa,3,Tự chọn chuyên ngành,TC_CN,0,0.0,0.0,,0.0,0
+ME4135,2020,CK,CDT,Thiết kế hệ thống robot,3,Tự chọn chuyên ngành,TC_CN,0,0.0,0.0,,0.0,0
+ME4137,2020,CK,CDT,Động lực học và điều khiển các hệ thống robot,3,Tự chọn chuyên ngành,TC_CN,0,0.0,0.0,,0.0,0
+ME4217,2020,CK,CDT,Điều khiển các hệ thống servo,3,Tự chọn chuyên ngành,TC_CN,0,0.0,0.0,,0.0,0
+ME4327,2020,CK,CDT,Đồ án tốt nghiệp (cdt),4,Tốt nghiệp,DA_TN,8,0.0,0.0,,0.0,0
+ME4357,2020,CK,CDM,Đồ án tốt nghiệp (cn dệt may),4,Tốt nghiệp,TN,8,0.0,0.0,,0.0,0
+ME4387,2020,CK,CKT,Đồ án tốt nghiệp (kt cơ khí),4,Tốt nghiệp,TN,8,0.0,0.0,,0.0,0
+MT1003,2020,CK,CK,Giải tích 1,4,Toán và KH Tự nhiên,DC,1,5.064044213263979,2.4785273878570546,10.0,74.31729518855657,2
+MT1005,2020,CK,CK,Giải tích 2,4,Toán và KH Tự nhiên,DC,2,5.095982142857143,2.653361378468397,10.0,73.36309523809523,2
+MT1007,2020,CK,CK,Đại số tuyến tính,3,Toán và KH Tự nhiên,DC,2,6.742215785662563,2.150451388358421,10.0,91.16582186821144,2
+MT1009,2020,CK,CK,Phương pháp tính,3,Toán và KH Tự nhiên,DC,3,6.480211081794195,2.6050462071493046,10.0,84.03693931398418,2
+MT2013,2020,CK,CK,Xác suất và thống kê,4,Toán và KH Tự nhiên,DC,4,0.0,0.0,,0.0,0
+PH1003,2020,CK,CK,Vật lý 1,4,Toán và KH Tự nhiên,DC,1,6.126168224299065,1.5991903826123348,9.5,93.28802039082413,1
+PH1005,2020,CK,CK,Vật lý 2,4,Toán và KH Tự nhiên,DC,2,6.328659070990359,1.6188995743748487,9.5,93.86503067484662,1
+PH1007,2020,CK,CK,Thí nghiệm vật lý,1,Toán và KH Tự nhiên,DC,2,7.012490537471613,2.1042064483725245,10.0,92.2785768357305,2
+SP1007,2020,CK,CK,Pháp luật Việt Nam đại cương,2,"Chính trị, Kinh tế, Văn hóa, Xã hội",CT,8,5.800291545189505,1.3664419700239474,8.5,91.25364431486881,2
+SP1031,2020,CK,CK,Triết học Mác - Lênin,3,"Chính trị, Kinh tế, Văn hóa, Xã hội",CT,3,0.0,0.0,,0.0,0
+SP1033,2020,CK,CK,Kinh tế chính trị Mác - Lênin,2,"Chính trị, Kinh tế, Văn hóa, Xã hội",CT,4,0.0,0.0,,0.0,0
+SP1035,2020,CK,CK,Chủ nghĩa xã hội khoa học,2,"Chính trị, Kinh tế, Văn hóa, Xã hội",CT,5,0.0,0.0,,0.0,0
+SP1037,2020,CK,CK,Tư tưởng Hồ Chí Minh,2,"Chính trị, Kinh tế, Văn hóa, Xã hội",CT,7,0.0,0.0,,0.0,0
+SP1039,2020,CK,CK,Lịch sử Đảng Cộng sản Việt Nam,2,"Chính trị, Kinh tế, Văn hóa, Xã hội",CT,6,0.0,0.0,,0.0,0
